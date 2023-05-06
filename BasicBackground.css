@@ -383,7 +383,7 @@ body::after {
 	z-index: 5001;
 }
 .titleBar-1it3bQ::after {
-	content: "";
+	content: "Hai!";
 	pointer-events: none;
 	position: absolute;
 	z-index: -1;
